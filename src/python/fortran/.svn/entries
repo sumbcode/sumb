@@ -1,0 +1,69 @@
+8
+
+dir
+1
+http://bigbird.stanford.edu/repos/SUmbOld/trunk/src/python/fortran
+http://bigbird.stanford.edu/repos/SUmbOld
+
+
+
+2008-01-14T19:16:54.668660Z
+1
+vdweide
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+86f58b4e-b343-0410-86a3-95cd6cebb985
+
+couplerAPI
+dir
+
+SUmb_MD_Common.mk
+file
+
+
+
+
+2008-04-17T08:46:50.000000Z
+b4fcac4a646e0243e5fb1b3c8190a54b
+2008-01-14T19:16:54.668660Z
+1
+vdweide
+has-props
+
+hqp
+dir
+
+suggar
+dir
+
+obj
+dir
+
+aeroElastic
+dir
+
+Makefile
+file
+
+
+
+
+2008-04-17T08:46:50.000000Z
+67742ee12074c0a2158d53f6e36ef6e1
+2008-01-14T19:16:54.668660Z
+1
+vdweide
+has-props
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/SUmbOld/!svn/ver/1/trunk/src/pv3Interface
+END
+pv3State.f90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/SUmbOld/!svn/ver/1/trunk/src/pv3Interface/pv3State.f90
+END
+pV3.setup
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/SUmbOld/!svn/ver/1/trunk/src/pv3Interface/pV3.setup
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SUmbOld/!svn/ver/1/trunk/src/pv3Interface/Makefile
+END
+pv3Routines.f90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SUmbOld/!svn/ver/1/trunk/src/pv3Interface/pv3Routines.f90
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/SUmbOld/!svn/ver/1/trunk/src/wallDistance
+END
+determineDistance.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/wallDistance/determineDistance.f90
+END
+computeNormalSpacing.f90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/SUmbOld/!svn/ver/1/trunk/src/wallDistance/computeNormalSpacing.f90
+END
+wallDistance.f90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/SUmbOld/!svn/ver/1/trunk/src/wallDistance/wallDistance.f90
+END
+localViscousSurfaceMesh.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/SUmbOld/!svn/ver/1/trunk/src/wallDistance/localViscousSurfaceMesh.f90
+END
+viscSurface.f90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SUmbOld/!svn/ver/1/trunk/src/wallDistance/viscSurface.f90
+END
+initWallDistance.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/wallDistance/initWallDistance.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SUmbOld/!svn/ver/1/trunk/src/wallDistance/Makefile
+END
+updateWallDistanceAllLevels.f90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/SUmbOld/!svn/ver/1/trunk/src/wallDistance/updateWallDistanceAllLevels.f90
+END
+viscousSurfaceMesh.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/SUmbOld/!svn/ver/1/trunk/src/wallDistance/viscousSurfaceMesh.f90
+END

@@ -1,0 +1,41 @@
+8
+
+dir
+45
+http://bigbird.stanford.edu/repos/SU_MPI/trunk/lib
+http://bigbird.stanford.edu/repos/SU_MPI
+
+
+
+2006-02-24T17:10:49.853932Z
+24
+vdweide
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a3b14e86-370c-0410-b97a-9062bdf6c792
+
+Makefile
+file
+
+
+
+
+2008-02-11T02:49:27.000000Z
+b869afbf98b366ac2e387a072005a7f2
+2006-02-24T17:10:49.853932Z
+24
+vdweide
+has-props
+

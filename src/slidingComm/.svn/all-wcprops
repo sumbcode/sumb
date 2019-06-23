@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm
+END
+updateExternalCommSlide.f90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/updateExternalCommSlide.f90
+END
+determineRotationMatrices.f90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/determineRotationMatrices.f90
+END
+mixingData.f90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/mixingData.f90
+END
+mixingPlaneComm.f90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/mixingPlaneComm.f90
+END
+mixingPlaneInterpol.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/mixingPlaneInterpol.f90
+END
+releaseMemSliding.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/releaseMemSliding.f90
+END
+cylCoorNodesOnBlockFace.f90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/cylCoorNodesOnBlockFace.f90
+END
+updateLocalCommSlide.f90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/updateLocalCommSlide.f90
+END
+cumulativeNSendReceives.f90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/cumulativeNSendReceives.f90
+END
+localSurfaceGrids.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/localSurfaceGrids.f90
+END
+updateComm.f90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/updateComm.f90
+END
+updateSlidingAllLevels.f90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/updateSlidingAllLevels.f90
+END
+localNodesAndQuads.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/localNodesAndQuads.f90
+END
+slidingComm.f90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/slidingComm.f90
+END
+slidingMeshGroups.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/slidingMeshGroups.f90
+END
+slidingMesh.f90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/slidingMesh.f90
+END
+updateSlidingCommPattern.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/updateSlidingCommPattern.f90
+END
+bsearchSortedDonorCommType.f90
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/bsearchSortedDonorCommType.f90
+END
+qsortSortedDonorCommType.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/qsortSortedDonorCommType.f90
+END
+mixingDonorInterpol.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/mixingDonorInterpol.f90
+END
+mixingHaloInterpol.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/mixingHaloInterpol.f90
+END
+updateRotationInfo.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/updateRotationInfo.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/Makefile
+END
+mySubfacesSlide.f90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/mySubfacesSlide.f90
+END
+nLocalNodesAndQuads.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/nLocalNodesAndQuads.f90
+END
+mixingIntervals.f90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/mixingIntervals.f90
+END
+volumeInterpol.f90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/volumeInterpol.f90
+END
+determineSections.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/determineSections.f90
+END
+haloType.f90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/haloType.f90
+END
+thisSlide.f90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/thisSlide.f90
+END
+qsortMixingIntervalType.f90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/qsortMixingIntervalType.f90
+END
+determineNSlices.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/determineNSlices.f90
+END
+initMemMixingPlane.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/initMemMixingPlane.f90
+END
+slidingIntersections.f90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/slidingIntersections.f90
+END
+localSubfaces.f90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/localSubfaces.f90
+END
+updateInterpolSendBuf.f90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/updateInterpolSendBuf.f90
+END
+interpolateSlide.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/interpolateSlide.f90
+END
+tmpSliding.f90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/tmpSliding.f90
+END
+initMemSliding.f90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/initMemSliding.f90
+END
+initThisSlide.f90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/initThisSlide.f90
+END
+procSliding.f90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/SUmbOld/!svn/ver/1/trunk/src/slidingComm/procSliding.f90
+END

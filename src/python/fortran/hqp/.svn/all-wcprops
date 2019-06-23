@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/SUmbOld/!svn/ver/1/trunk/src/python/fortran/hqp
+END
+hqpPert.f90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/SUmbOld/!svn/ver/1/trunk/src/python/fortran/hqp/hqpPert.f90
+END
+hqpSetInducedVelocities.f90
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/SUmbOld/!svn/ver/1/trunk/src/python/fortran/hqp/hqpSetInducedVelocities.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/SUmbOld/!svn/ver/1/trunk/src/python/fortran/hqp/Makefile
+END

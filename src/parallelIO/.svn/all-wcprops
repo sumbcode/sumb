@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO
+END
+sendBufNonLocalIO.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO/sendBufNonLocalIO.f90
+END
+determineBytesCommChunk.f90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO/determineBytesCommChunk.f90
+END
+determineVarLocalIO.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO/determineVarLocalIO.f90
+END
+writePlot3DVar.f90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO/writePlot3DVar.f90
+END
+readPlot3DVar.f90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO/readPlot3DVar.f90
+END
+determineMyChunk.f90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO/determineMyChunk.f90
+END
+releaseMemIOPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO/releaseMemIOPlot3D.f90
+END
+determineCommSizesIO.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO/determineCommSizesIO.f90
+END
+getIndices.f90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO/getIndices.f90
+END
+prepareWritePlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO/prepareWritePlot3D.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO/Makefile
+END
+prepareReadPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/parallelIO/prepareReadPlot3D.f90
+END

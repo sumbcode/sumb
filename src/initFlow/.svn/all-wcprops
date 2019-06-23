@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow
+END
+readTurbSAPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readTurbSAPlot3D.f90
+END
+readXvelocity.f90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readXvelocity.f90
+END
+readConvHistory.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readConvHistory.F90
+END
+readYvelocity.f90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readYvelocity.f90
+END
+readZvelocity.f90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readZvelocity.f90
+END
+readXmomentum.f90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readXmomentum.f90
+END
+readRestartVariable.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readRestartVariable.F90
+END
+readTurbV2f.f90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readTurbV2f.f90
+END
+readYmomentum.f90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readYmomentum.f90
+END
+readZmomentum.f90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readZmomentum.f90
+END
+getSortedZoneNumbers.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/getSortedZoneNumbers.F90
+END
+timeSpectralCoef.f90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/timeSpectralCoef.f90
+END
+readPressurePlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readPressurePlot3D.f90
+END
+initFlow.f90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/initFlow.f90
+END
+setIOVar.f90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/setIOVar.f90
+END
+initBleedsFromHalos.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/initBleedsFromHalos.f90
+END
+readTurbEddyVis.f90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readTurbEddyVis.f90
+END
+readDensityPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readDensityPlot3D.f90
+END
+readTimeHistoryPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readTimeHistoryPlot3D.f90
+END
+readTurbKwTypePlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readTurbKwTypePlot3D.f90
+END
+allocMemFlovar.f90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/allocMemFlovar.f90
+END
+computePressure.f90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/computePressure.f90
+END
+readTurbvarPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readTurbvarPlot3D.f90
+END
+readXvelocityPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readXvelocityPlot3D.f90
+END
+scaleFactors.F90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/scaleFactors.F90
+END
+readYvelocityPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readYvelocityPlot3D.f90
+END
+readZvelocityPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readZvelocityPlot3D.f90
+END
+readXmomentumPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readXmomentumPlot3D.f90
+END
+readYmomentumPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readYmomentumPlot3D.f90
+END
+readTurbV2fPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readTurbV2fPlot3D.f90
+END
+readTimeHistory.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readTimeHistory.F90
+END
+readZmomentumPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readZmomentumPlot3D.f90
+END
+setPressureAndComputeEnergy.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/setPressureAndComputeEnergy.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/Makefile
+END
+interpolateSpectralSolution.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/interpolateSpectralSolution.f90
+END
+setUniformFlow.f90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/setUniformFlow.f90
+END
+restartMod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/restartMod.f90
+END
+timeSpectralMatrices.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/timeSpectralMatrices.f90
+END
+readEnergy.f90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readEnergy.f90
+END
+readTurbEddyVisPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readTurbEddyVisPlot3D.f90
+END
+initializeHalos.f90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/initializeHalos.f90
+END
+allocTimeArrays.f90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/allocTimeArrays.f90
+END
+readTurbSA.f90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readTurbSA.f90
+END
+setFlowInfinityState.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/setFlowInfinityState.f90
+END
+initFlowfield.f90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/initFlowfield.f90
+END
+referenceState.f90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/referenceState.f90
+END
+allocConvArrays.f90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/allocConvArrays.f90
+END
+readPressure.f90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readPressure.f90
+END
+copySpectralSolution.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/copySpectralSolution.f90
+END
+getSortedVarNumbers.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/getSortedVarNumbers.F90
+END
+readRestartFilePlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readRestartFilePlot3D.f90
+END
+readConvHistoryPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readConvHistoryPlot3D.f90
+END
+readEnergyPlot3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readEnergyPlot3D.f90
+END
+readDensity.f90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readDensity.f90
+END
+releaseExtraMemBCs.f90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/releaseExtraMemBCs.f90
+END
+readTurbKwType.f90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readTurbKwType.f90
+END
+determineSolFileNames.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/determineSolFileNames.f90
+END
+initDepvarAndHalos.f90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/initDepvarAndHalos.f90
+END
+readRestartFile.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readRestartFile.F90
+END
+readTurbvar.f90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/SUmbOld/!svn/ver/1/trunk/src/initFlow/readTurbvar.f90
+END

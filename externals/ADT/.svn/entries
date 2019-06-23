@@ -1,0 +1,67 @@
+8
+
+dir
+40
+http://bigbird.stanford.edu/repos/ADT/trunk
+http://bigbird.stanford.edu/repos/ADT
+
+
+
+2007-10-20T09:21:55.924984Z
+40
+vdweide
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e32b0e86-370c-0410-8ff1-ad813691db78
+
+mod
+dir
+
+config
+dir
+
+lib
+dir
+
+ADT_Common.mk
+file
+
+
+
+
+2008-02-11T02:49:28.000000Z
+345191ddfb1937d3dce7bd812878c945
+2007-01-22T22:12:31.975616Z
+38
+plegresl
+
+src
+dir
+
+obj
+dir
+
+Makefile
+file
+
+
+
+
+2008-02-11T02:49:28.000000Z
+ea32c9e279abd26cd62492f50c38120a
+2007-10-20T09:21:55.924984Z
+40
+vdweide
+

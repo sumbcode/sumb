@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing
+END
+determineFaceHalos.f90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/determineFaceHalos.f90
+END
+preprocessing.f90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/preprocessing.f90
+END
+update1to1Coarse.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/update1to1Coarse.f90
+END
+determineIndirectHalos.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/determineIndirectHalos.f90
+END
+indirectHalosPerLevel.f90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/indirectHalosPerLevel.f90
+END
+checkSymmetry.f90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/checkSymmetry.f90
+END
+determineAreaLevel0Cooling.f90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/determineAreaLevel0Cooling.f90
+END
+coarseDonorInfo.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/coarseDonorInfo.f90
+END
+mdUpdateRoutines.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/mdUpdateRoutines.f90
+END
+determinePeriodicFaces.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/determinePeriodicFaces.f90
+END
+closestDirectHalos.f90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/closestDirectHalos.f90
+END
+shiftCoorAndVolumes.f90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/shiftCoorAndVolumes.f90
+END
+determineNumberOfHalos.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/determineNumberOfHalos.f90
+END
+faceRotationMatrices.f90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/faceRotationMatrices.f90
+END
+qsortIndHaloType.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/qsortIndHaloType.f90
+END
+qsortPeriodicSubfacesHaloType.f90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/qsortPeriodicSubfacesHaloType.f90
+END
+periodicInfo.f90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/periodicInfo.f90
+END
+qsortHaloListType.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/qsortHaloListType.f90
+END
+unitVectorsInAxialPlane.f90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/unitVectorsInAxialPlane.f90
+END
+setFamilyInfoFaces.f90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/setFamilyInfoFaces.f90
+END
+determineNcellGlobal.f90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/determineNcellGlobal.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/Makefile
+END
+coarseLevel0CoolingParameters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/coarseLevel0CoolingParameters.f90
+END
+metric.f90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/metric.f90
+END
+updateCoorFineMesh.f90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/updateCoorFineMesh.f90
+END
+cellRangeSubface.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/cellRangeSubface.f90
+END
+determinePeriodicData.f90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/determinePeriodicData.f90
+END
+determineCommPattern.f90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/determineCommPattern.f90
+END
+init2ndLevelCellHalos.f90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/init2ndLevelCellHalos.f90
+END
+bcHalo.f90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/bcHalo.f90
+END
+allocMemHaloList.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/allocMemHaloList.f90
+END
+createCoarseBlocks.f90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/createCoarseBlocks.f90
+END
+bsearchCGNSPeriodicType.f90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/bsearchCGNSPeriodicType.f90
+END
+indirectHalo.f90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/indirectHalo.f90
+END
+exchangeCoor.f90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/exchangeCoor.f90
+END
+finalCommStructures.f90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/finalCommStructures.f90
+END
+viscSubfaceInfo.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/viscSubfaceInfo.f90
+END
+coarse1to1Subface.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/coarse1to1Subface.f90
+END
+xhalo.f90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/xhalo.f90
+END
+setPorosities.f90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/setPorosities.f90
+END
+haloList.f90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/haloList.f90
+END
+checkCoarse1to1.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/SUmbOld/!svn/ver/1/trunk/src/preprocessing/checkCoarse1to1.f90
+END

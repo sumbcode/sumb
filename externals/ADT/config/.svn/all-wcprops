@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/repos/ADT/!svn/ver/40/trunk/config
+END
+config.APPLE_MAC_NAG.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/ADT/!svn/ver/18/trunk/config/config.APPLE_MAC_NAG.mk
+END
+config.LINUX_XLF.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/ADT/!svn/ver/35/trunk/config/config.LINUX_XLF.mk
+END
+config.REDHOT_PG.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/ADT/!svn/ver/15/trunk/config/config.REDHOT_PG.mk
+END
+config.IBM_BLUEGENE.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/ADT/!svn/ver/15/trunk/config/config.IBM_BLUEGENE.mk
+END
+config.REDHOT_INTEL.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/ADT/!svn/ver/15/trunk/config/config.REDHOT_INTEL.mk
+END
+config.ALTIX.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/ADT/!svn/ver/15/trunk/config/config.ALTIX.mk
+END
+config.SGI.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/ADT/!svn/ver/15/trunk/config/config.SGI.mk
+END
+config.FLASH_PG.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/ADT/!svn/ver/39/trunk/config/config.FLASH_PG.mk
+END
+config.LINUX_G95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/ADT/!svn/ver/15/trunk/config/config.LINUX_G95.mk
+END
+config.LINUX_PG.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/ADT/!svn/ver/32/trunk/config/config.LINUX_PG.mk
+END
+config.ASCI_QSC.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/ADT/!svn/ver/15/trunk/config/config.ASCI_QSC.mk
+END
+config.FLASH_INTEL.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/ADT/!svn/ver/39/trunk/config/config.FLASH_INTEL.mk
+END
+config.ABLATION_PG_IB.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/ADT/!svn/ver/15/trunk/config/config.ABLATION_PG_IB.mk
+END
+config.ALC_INTEL.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/ADT/!svn/ver/15/trunk/config/config.ALC_INTEL.mk
+END
+config.APPLE_MAC_XLF.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/ADT/!svn/ver/18/trunk/config/config.APPLE_MAC_XLF.mk
+END
+config.LINUX_INTEL.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/ADT/!svn/ver/40/trunk/config/config.LINUX_INTEL.mk
+END
+config.IBM_DATASTAR.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/ADT/!svn/ver/28/trunk/config/config.IBM_DATASTAR.mk
+END
+config.MELTING_INTEL.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/ADT/!svn/ver/36/trunk/config/config.MELTING_INTEL.mk
+END
+config.CYGWIN_INTEL.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/ADT/!svn/ver/38/trunk/config/config.CYGWIN_INTEL.mk
+END
+config.LINUX_ABSOFT.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/ADT/!svn/ver/15/trunk/config/config.LINUX_ABSOFT.mk
+END
+config.ABLATION_INTEL_IB.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/ADT/!svn/ver/15/trunk/config/config.ABLATION_INTEL_IB.mk
+END
+config.REDSTORM.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/ADT/!svn/ver/40/trunk/config/config.REDSTORM.mk
+END
+config.CELL_G95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/ADT/!svn/ver/34/trunk/config/config.CELL_G95.mk
+END
+config.SGI_N32.mk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/ADT/!svn/ver/18/trunk/config/config.SGI_N32.mk
+END
+config.GOUGING_INTEL_IB.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/ADT/!svn/ver/25/trunk/config/config.GOUGING_INTEL_IB.mk
+END

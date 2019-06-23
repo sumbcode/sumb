@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/repos/ADT/!svn/ver/31/trunk/src
+END
+adtAPI.f90
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/ADT/!svn/ver/11/trunk/src/adtAPI.f90
+END
+adtData.f90
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/ADT/!svn/ver/11/trunk/src/adtData.f90
+END
+adtPrecision.F90
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/ADT/!svn/ver/1/trunk/src/adtPrecision.F90
+END
+newtonStep.f90
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/ADT/!svn/ver/29/trunk/src/newtonStep.f90
+END
+adtBuild.f90
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/ADT/!svn/ver/13/trunk/src/adtBuild.f90
+END
+adtUtils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/ADT/!svn/ver/31/trunk/src/adtUtils.F90
+END
+adtLocalSearch.f90
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/ADT/!svn/ver/29/trunk/src/adtLocalSearch.f90
+END
+gradD2Hexa.f90
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/ADT/!svn/ver/29/trunk/src/gradD2Hexa.f90
+END
+hessD2Hexa.f90
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/ADT/!svn/ver/29/trunk/src/hessD2Hexa.f90
+END
+adtSearch.f90
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/ADT/!svn/ver/24/trunk/src/adtSearch.f90
+END
+minD2Hexa.f90
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/ADT/!svn/ver/30/trunk/src/minD2Hexa.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/ADT/!svn/ver/29/trunk/src/Makefile
+END

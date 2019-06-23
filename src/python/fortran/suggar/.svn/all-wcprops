@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SUmbOld/!svn/ver/1/trunk/src/python/fortran/suggar
+END
+suggarData.f90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/SUmbOld/!svn/ver/1/trunk/src/python/fortran/suggar/suggarData.f90
+END
+loadSuggarDCIFile.f90
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/SUmbOld/!svn/ver/1/trunk/src/python/fortran/suggar/loadSuggarDCIFile.f90
+END
+writePlot3DZoneFile.f90
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/SUmbOld/!svn/ver/1/trunk/src/python/fortran/suggar/writePlot3DZoneFile.f90
+END
+initSuggarInterface.f90
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/SUmbOld/!svn/ver/1/trunk/src/python/fortran/suggar/initSuggarInterface.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/SUmbOld/!svn/ver/1/trunk/src/python/fortran/suggar/Makefile
+END

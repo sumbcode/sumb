@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/SU_MPI/!svn/ver/31/trunk/src/mpi
+END
+my_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/SU_MPI/!svn/ver/31/trunk/src/mpi/my_time.c
+END
+global_io_var.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/SU_MPI/!svn/ver/30/trunk/src/mpi/global_io_var.h
+END
+MPI_Comm_size.f90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Comm_size.f90
+END
+MPI_Barrier.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Barrier.f90
+END
+MPI_File_seek.f90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_File_seek.f90
+END
+MPI_Get_count.f90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Get_count.f90
+END
+MPI_Send.f90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Send.f90
+END
+MPI_File_write.f90
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_File_write.f90
+END
+MPI_Init_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Init_c.c
+END
+MPI_Reduce_scatter.f90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Reduce_scatter.f90
+END
+MPI_Recv.f90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Recv.f90
+END
+MPI_File_open.f90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_File_open.f90
+END
+MPI_File_delete.f90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_File_delete.f90
+END
+MPI_Finalize.f90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Finalize.f90
+END
+MPI_Isend.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Isend.f90
+END
+MPI_Allgather.f90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Allgather.f90
+END
+MPI_File_close.f90
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_File_close.f90
+END
+MPI_Alltoall.f90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Alltoall.f90
+END
+MPI_Comm_rank.f90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Comm_rank.f90
+END
+MPI_Reduce.f90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Reduce.f90
+END
+MPI_Irecv.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Irecv.f90
+END
+MPI_File_read.f90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_File_read.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/SU_MPI/!svn/ver/24/trunk/src/mpi/Makefile
+END
+MPI_File_seek_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_File_seek_c.c
+END
+MPI_File_write_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_File_write_c.c
+END
+MPI_File_open_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SU_MPI/!svn/ver/30/trunk/src/mpi/MPI_File_open_c.c
+END
+MPI_File_delete_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_File_delete_c.c
+END
+MPI_Finalize_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Finalize_c.c
+END
+MPI_Allgatherv.f90
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Allgatherv.f90
+END
+MPI_File_close_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/SU_MPI/!svn/ver/27/trunk/src/mpi/MPI_File_close_c.c
+END
+MPI_Bcast.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Bcast.f90
+END
+determine_size_entity.F90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/determine_size_entity.F90
+END
+MPI_Waitall.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Waitall.f90
+END
+su_mpi_terminate.f90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/SU_MPI/!svn/ver/30/trunk/src/mpi/su_mpi_terminate.f90
+END
+MPI_File_read_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_File_read_c.c
+END
+MPI_Allreduce.f90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Allreduce.f90
+END
+MPI_Gatherv.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Gatherv.f90
+END
+MPI_Init.f90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Init.f90
+END
+MPI_Comm_split.f90
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Comm_split.f90
+END
+MPI_Abort.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Abort.f90
+END
+MPI_Probe.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Probe.f90
+END
+MPI_Gather.f90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Gather.f90
+END
+MPI_Waitany.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/SU_MPI/!svn/ver/18/trunk/src/mpi/MPI_Waitany.f90
+END
