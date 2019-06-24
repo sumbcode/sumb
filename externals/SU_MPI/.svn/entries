@@ -1,69 +1,0 @@
-8
-
-dir
-45
-http://bigbird.stanford.edu/repos/SU_MPI/trunk
-http://bigbird.stanford.edu/repos/SU_MPI
-
-
-
-2007-10-20T09:21:35.572913Z
-45
-vdweide
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-a3b14e86-370c-0410-b97a-9062bdf6c792
-
-mod
-dir
-
-config
-dir
-
-lib
-dir
-
-src
-dir
-
-obj
-dir
-
-SU_MPI_Common.mk
-file
-
-
-
-
-2008-02-11T02:49:27.000000Z
-534c98831704a534ed8fdd0654986aa7
-2006-03-30T19:09:33.832441Z
-29
-vdweide
-has-props
-
-Makefile
-file
-
-
-
-
-2008-02-11T02:49:27.000000Z
-ee705f0f1167fc4f8ab942df86ca8df4
-2007-10-20T09:21:35.572913Z
-45
-vdweide
-has-props
-
