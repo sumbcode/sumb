@@ -94,7 +94,8 @@ CC_GEN_FLAGS   =
 
 #FF90_OPTFLAGS   = -O2 -tpp7 -xW -unroll -ipo -ipo_obj
 #FF90_OPTFLAGS   = -O2 -tpp7 -xW -unroll -ip
-FF90_OPTFLAGS   = -O2
+#FF90_OPTFLAGS   = -O2
+FF90_OPTFLAGS   = -g -O2
 #FF90_OPTFLAGS   = -O2 -tpp7 -axW -ip
 #CC_OPTFLAGS     = -O3 -fexpensive-optimizations -frerun-cse-after-loop \
 		  -fthread-jumps -funroll-loops -finline-functions

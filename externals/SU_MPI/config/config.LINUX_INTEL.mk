@@ -50,14 +50,15 @@ CC_GEN_FLAGS   = -DSEQUENTIAL_MODE
 #FF90_OPTFLAGS   = -O2 -tpp7 -xW -unroll -ipo -ipo_obj
 #FF90_OPTFLAGS   = -O2 -tpp7 -xW -unroll -ip
 #FF90_OPTFLAGS   = -O2
+FF90_OPTFLAGS   = -g -O2
 #FF90_OPTFLAGS   = -O2 -tpp7 -axW -ip
 #CC_OPTFLAGS     = -O3 -fexpensive-optimizations -frerun-cse-after-loop \
 		  -fthread-jumps -funroll-loops -finline-functions
 
 #FF90_DEBUGFLAGS = -g -CA -CB -CS -CU -implicitnone -e90 -e95 -DDEBUG_MODE
 #FF90_DEBUGFLAGS = -g -C -implicitnone -e90 -e95 -DDEBUG_MODE
-FF90_DEBUGFLAGS = -g -implicitnone -DDEBUG_MODE
-CC_DEBUGFLAGS   = -g -Wall -pedantic -DDEBUG_MODE
+#FF90_DEBUGFLAGS = -g -implicitnone -DDEBUG_MODE
+#CC_DEBUGFLAGS   = -g -Wall -pedantic -DDEBUG_MODE
 
 FF90_FLAGS = $(FF90_GEN_FLAGS) $(FF90_OPTFLAGS) $(FF90_DEBUGFLAGS)
 CC_FLAGS   = $(CC_GEN_FLAGS)   $(CC_OPTFLAGS)   $(CC_DEBUGFLAGS)

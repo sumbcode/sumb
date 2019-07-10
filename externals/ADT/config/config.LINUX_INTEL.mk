@@ -61,11 +61,12 @@ FF90_GEN_FLAGS =
 #FF90_OPTFLAGS   = -O2 -tpp7 -xW -unroll -ipo -ipo_obj
 #FF90_OPTFLAGS   = -O2 -tpp7 -xW -unroll -ip
 #FF90_OPTFLAGS   = -O2 -ip
+FF90_OPTFLAGS   = -g -O2
 #FF90_OPTFLAGS   = -O2 -tpp7 -axW -ip
 
 #FF90_DEBUGFLAGS = -g -C -implicitnone -e90 -e95\
 		 -fpe0 -fpstkchk -DDEBUG_MODE
-FF90_DEBUGFLAGS = -g -implicitnone -DDEBUG_MODE
+#FF90_DEBUGFLAGS = -g -implicitnone -DDEBUG_MODE
 
 FF90_FLAGS = $(FF90_GEN_FLAGS) $(FF90_OPTFLAGS) $(FF90_DEBUGFLAGS)
 
