@@ -994,9 +994,9 @@
 
         integer, dimension(mpi_status_size) :: status
 
-        integer, dimension(:),   allocatable :: procSendCur
-        integer, dimension(:),   allocatable :: sendRequest
-        integer, dimension(:,:), allocatable :: sendRecvRequest
+        integer, dimension(:), allocatable :: procSendCur
+        integer, dimension(:), allocatable :: sendRequest
+        integer, dimension(:), allocatable :: sendRecvRequest
 
         integer(kind=adtIntType) :: i, j, k, k1, l, m, ii, mm, nn
         integer(kind=adtIntType) :: nLocalInterpolRound
@@ -1054,7 +1054,7 @@
         nn = nCoorPerRootLeaf(nProcs)
         allocate(procSendCur(nProcs-1),       sendRequest(nProcs-1),     &
                  nCoorPerProc(0:nProcs-1),    nCoorFromProc(0:nProcs-1), &
-                 sendRecvRequest(2,nProcs-1), coorRequested(nn),         &
+                 sendRecvRequest(2*nProcs-2), coorRequested(nn),         &
                  stat=ierr)
         if(ierr /= 0)                     &
           call adtTerminate(jj, "search", &
@@ -1581,14 +1581,14 @@
             ! the requesting processor.
 
             sizeMessage = 3*nn
-            call mpi_isend(intRecv(1,ii),        sizeMessage, adt_integer, &
-                           procCur,              procCur+1,   comm,        &
-                           sendRecvRequest(1,i), ierr)
+            call mpi_isend(intRecv(1,ii),          sizeMessage, adt_integer, &
+                           procCur,                procCur+1,   comm,        &
+                           sendRecvRequest(2*i-1), ierr)
 
             sizeMessage = nVarUVW*nn
             call mpi_isend(uvwRecv(1,ii),        sizeMessage, adt_real, &
                            procCur,              procCur+2,   comm,     &
-                           sendRecvRequest(2,i), ierr)
+                           sendRecvRequest(2*i), ierr)
 
             ! Update the counter ii for the next message.
 

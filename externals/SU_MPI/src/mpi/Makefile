@@ -63,6 +63,7 @@ FF90_OBJECTS  = determine_size_entity.o\
 	        MPI_Reduce.o\
 	        MPI_Reduce_scatter.o\
 	        MPI_Send.o\
+	        MPI_Wait.o\
 	        MPI_Waitall.o\
 	        MPI_Waitany.o\
 		su_mpi_terminate.o

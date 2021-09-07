@@ -186,7 +186,7 @@
          ii = index
          jj = commPatternOverset(level,sps)%nRecvCum(ii-1)
 
-         call mpi_waitany(1, recvRequests2(ii), index, status, ierr)
+         call mpi_wait(recvRequests2(ii), status, ierr)
 
          ! Loop over the message.
 
