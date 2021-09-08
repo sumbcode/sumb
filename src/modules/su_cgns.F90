@@ -4,7 +4,7 @@
 !      * File:          su_cgns.F90                                     *
 !      * Author:        Edwin van der Weide                             *
 !      * Starting date: 02-16-2005                                      *
-!      * Last modified: 06-12-2005                                      *
+!      * Last modified: 09-01-2021, M. Colonno                          *
 !      *                                                                *
 !      ******************************************************************
 !
@@ -596,11 +596,14 @@
                                         "AverageK              "/)
 
 #else
-       ! CGNS is used. simply include the file cgnslib_f.h.
+       ! CGNS is used: 
+       ! For linking CGNS version < 3.3.0 use cgnslib_f.h.
+       ! For linking CGNS version >= 3.3.0, CGNS module is required instead
 
+       use CGNS
        implicit none
        save
-       include "cgnslib_f.h"
+       ! include "cgnslib_f.h"
 
 #endif
 
