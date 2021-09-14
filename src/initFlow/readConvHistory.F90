@@ -42,7 +42,8 @@
 !      Local variables.
 !
        integer :: ierr, realTypeCGNS, dummyInt
-       integer :: i, nConv, nConvHistories, nDim, nSize, sol, base
+       integer :: i, nConv, nConvHistories, nDim, sol, base
+       integer(kind=CGSIZE_T), dimension(:), allocatable :: nSize
 
        integer(kind=intType) :: j, ii, nn
 
