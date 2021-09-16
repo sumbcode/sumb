@@ -4,7 +4,7 @@
 !      * File:          writeCGNSGridFrame.F90                          *
 !      * Author:        Edwin van der Weide                             *
 !      * Starting date: 01-21-2004                                      *
-!      * Last modified: 10-12-2005                                      *
+!      * Last modified: 09-16-2021, M. Colonno                          *
 !      *                                                                *
 !      ******************************************************************
 !
@@ -37,16 +37,20 @@
 !
 !      Local variables.
 !
-       integer :: ierr, ii, jj, cgnsInd, cgnsBase
-       integer, dimension(9)   :: sizes
-       integer, dimension(3,2) :: zoneRange, donorRange
+       integer :: ierr, cgnsInd, cgnsBase
+       integer(kind=cgsize_t) :: cgnsNpts, ii, jj
+       integer(kind=cgsize_t), dimension(9)   :: sizes
+       integer(kind=cgsize_t), dimension(3,2) :: zoneRange, donorRange
        integer, dimension(3)   :: transform
        integer, dimension(:,:), allocatable :: donorData
 
        integer(kind=intType) :: nn, mm, ll, i, j, k
        integer(kind=intType) :: s1, s2, s3
 
-       real, dimension(3) :: rotCenter, rotRate, translation
+       ! Per CGNS documentation: in Fortran, this is an array of Real*4 values
+       real(4), dimension(3) :: rotCenter, rotRate
+       
+       real, dimension(3) :: translation
 
        real(kind=realType) :: LRefInv
 
@@ -318,10 +322,10 @@
 
              ! Write the general connectivity.
 
-             ii = ll
+             ii = ll; cgnsNpts = 2
              call cg_conn_write_f(cgnsInd, cgnsBase, cgnsZone(nn),       &
                                   cgnsDoms(nn)%conn1to1(mm)%connectName, &
-                                  Vertex, Abutting1to1, PointRange, 2,   &
+                                  Vertex, Abutting1to1, PointRange, cgnsNpts,   &
                                   zoneRange,                             &
                                   cgnsDoms(nn)%conn1to1(mm)%donorName,   &
                                   Structured, PointListDonor, Integer,   &
