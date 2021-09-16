@@ -43,7 +43,7 @@
 !
        integer :: ierr, realTypeCGNS, dummyInt
        integer :: i, nConv, nConvHistories, nDim, sol, base
-       integer(kind=CGSIZE_T), dimension(:), allocatable :: nSize
+       integer(kind=CGSIZE_T), dimension(1) :: nSize
 
        integer(kind=intType) :: j, ii, nn
 
@@ -232,7 +232,7 @@
              convNames(i) = convNames(i)//"#$@&^!#$%!"
            endif
 
-           if((nSize-1) /= nIterOld) then
+           if((nSize(1)-1) /= nIterOld) then
              print "(a)", "#"
              print "(a)", "#                 Warning"
              print 110, trim(convNames(i))

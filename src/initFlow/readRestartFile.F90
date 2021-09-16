@@ -43,7 +43,8 @@
 !
        integer :: nZones, cellDim, physDim, ierr, nSols
 
-       integer, dimension(9) :: sizes
+       integer(kind=CGSIZE_T), dimension(9) :: sizes
+       integer, dimension(6) :: rindData
        integer, dimension(nSolsRead) :: fileIDs
 
        integer(kind=intType) :: ii, jj, nn
@@ -279,7 +280,7 @@
              call terminate("readRestartFile", &
                             "Something wrong when calling cg_goto_f")
 
-           call cg_rind_read_f(sizes, ierr)
+           call cg_rind_read_f(rindData, ierr)
            if(ierr /= all_ok)                  &
              call terminate("readRestartFile", &
                             "Something wrong when calling &
@@ -290,8 +291,9 @@
            ! an unsteady computation.
 
            if(solID == 1 .or. equationMode == timeSpectral) then
-             if(sizes(1) == 0 .or. sizes(2) == 0 .or. sizes(3) == 0 .or. &
-                sizes(4) == 0 .or. sizes(5) == 0 .or. sizes(6) == 0)     &
+             if(rindData(1) == 0 .or. rindData(2) == 0 .or. &
+                rindData(3) == 0 .or. rindData(4) == 0 .or. &
+                rindData(5) == 0 .or. rindData(6) == 0)     &
                halosRead = .false.
            endif
 
@@ -324,16 +326,19 @@
              ! unsteady computation.
 
              if(solID == 1 .or. equationMode == timeSpectral) then
-               if(sizes(1) > 0) nHiMin = 1; if(sizes(2) > 0) nHiMax = 1
-               if(sizes(3) > 0) nHjMin = 1; if(sizes(4) > 0) nHjMax = 1
-               if(sizes(5) > 0) nHkMin = 1; if(sizes(6) > 0) nHkMax = 1
+               if(rindData(1) > 0) nHiMin = 1
+               if(rindData(2) > 0) nHiMax = 1
+               if(rindData(3) > 0) nHjMin = 1
+               if(rindData(4) > 0) nHjMax = 1
+               if(rindData(5) > 0) nHkMin = 1
+               if(rindData(6) > 0) nHkMax = 1
              endif
 
              ! Set the cell range to be read from the CGNS file.
 
-             rangeMin(1) = iBegOr + sizes(1) - nHiMin
-             rangeMin(2) = jBegOr + sizes(3) - nHjMin
-             rangeMin(3) = kBegOr + sizes(5) - nHkMin
+             rangeMin(1) = iBegOr + rindData(1) - nHiMin
+             rangeMin(2) = jBegOr + rindData(3) - nHjMin
+             rangeMin(3) = kBegOr + rindData(5) - nHkMin
 
              rangeMax(1) = rangeMin(1) + nx-1 + nHiMin + nHiMax
              rangeMax(2) = rangeMin(2) + ny-1 + nHjMin + nHjMax
@@ -348,9 +353,9 @@
 
              halosRead   = .false.
 
-             rangeMin(1) = iBegor + sizes(1)
-             rangeMin(2) = jBegor + sizes(3)
-             rangeMin(3) = kBegor + sizes(5)
+             rangeMin(1) = iBegor + rindData(1)
+             rangeMin(2) = jBegor + rindData(3)
+             rangeMin(3) = kBegor + rindData(5)
 
              rangeMax(1) = rangeMin(1) + nx
              rangeMax(2) = rangeMin(2) + ny

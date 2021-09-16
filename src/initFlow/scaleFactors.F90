@@ -42,8 +42,9 @@
 !      Local variables.
 !
        integer :: ierr, realTypeCGNS, typeCGNS
-       integer :: i, nsize, nDim, nRef
+       integer :: i, nDim, nRef
 
+       integer(kind=CGSIZE_T), dimension(1) :: nSize
        integer(kind=intType) :: ii, nn
 
        integer(kind=intType), dimension(:), allocatable :: ind
@@ -96,7 +97,7 @@
        ! state. If the error code is not all_ok, this means that no
        ! reference node is present.
 
-       call cg_state_size_f(nsize, ierr)
+       call cg_state_size_f(nDim, ierr)
        if(ierr /= all_ok) then
 
          ! Reference state does not exist. Check if the restart solution
@@ -145,7 +146,7 @@
 
        do i=1,nRef
          call cg_array_info_f(i, refNames(i), typeCGNS, nDim, &
-                              nsize, ierr)
+                              nSize, ierr)
          if(ierr /= all_ok)                &
            call terminate("scaleFactors", &
                           "Something wrong when calling cg_array_info_f")
@@ -154,7 +155,7 @@
          ! Both should be 1. If not, screw up the name such that it
          ! will never be found in the search later on.
 
-         if(nDim /= 1 .or. nsize /= 1) &
+         if(nDim /= 1 .or. nSize(1) /= 1) &
            refNames(i) = refNames(i)//"#$@&^!#$%!"
 
          ! And copy it in tmpNames.

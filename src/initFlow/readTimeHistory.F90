@@ -41,7 +41,9 @@
 !      Local variables.
 !
        integer :: ierr, realTypeCGNS, dummyInt
-       integer :: i, nConv, nDim, nSize
+       integer :: i, nConv, nDim
+
+       integer(kind=CGSIZE_T), dimension(1) :: nSize
 
        integer(kind=intType) :: j, ii, nn
 
@@ -155,7 +157,7 @@
            convNames(i) = convNames(i)//"#$@&^!#$%!"
          endif
 
-         if(nSize /= nTimeStepsRestart) then
+         if(nSize(1) /= nTimeStepsRestart) then
            print "(a)", "#"
            print "(a)", "#                 Warning"
            print 110, trim(convNames(i))
