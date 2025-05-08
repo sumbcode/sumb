@@ -4,7 +4,7 @@
 !      * File:          readRestartFile.F90                             *
 !      * Author:        Edwin van der Weide, Steve Repsher              *
 !      * Starting date: 03-07-2003                                      *
-!      * Last modified: 09-13-2007                                      *
+!      * Last modified: 05-08-2025                                      *
 !      *                                                                *
 !      ******************************************************************
 !
@@ -41,6 +41,7 @@
 !
 !      Local variables.
 !
+#ifndef USE_NO_CGNS
        integer :: nZones, cellDim, physDim, ierr, nSols
 
        integer(kind=CGSIZE_T), dimension(9) :: sizes
@@ -59,6 +60,7 @@
 !      Function definitions.
 !
        integer(kind=intType) :: bsearchStrings
+#endif
 !
 !      ******************************************************************
 !      *                                                                *

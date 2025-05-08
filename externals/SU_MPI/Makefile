@@ -52,6 +52,7 @@ default:
 	@echo "                         LINUX_ABSOFT"
 	@echo "                         LINUX_G95"
 	@echo "                         LINUX_G95_MPICH"
+	@echo "                         LINUX_GNU_OpenMPI"
 	@echo "                         LINUX_INTEL"
 	@echo "                         LINUX_INTEL_MPICH"
 	@echo "                         LINUX_PG"
@@ -191,6 +192,10 @@ LINUX_G95:
 
 LINUX_G95_MPICH:
 	ln -sf config/config.LINUX_G95_MPICH.mk config.mk
+	gmake parallel
+
+LINUX_GNU_OpenMPI:
+	ln -sf config/config.LINUX_GNU_OpenMPI.mk config.mk
 	gmake parallel
 
 LINUX_INTEL:

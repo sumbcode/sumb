@@ -3,7 +3,7 @@
 #      * File:          Makefile                                        *
 #      * Author:        Edwin van der Weide                             *
 #      * Starting date: 11-26-2004                                      *
-#      * Last modified: 10-17-2007                                      *
+#      * Last modified: 05-08-2025                                      *
 #      *                                                                *
 #      ******************************************************************
 
@@ -52,6 +52,7 @@ default:
 	@echo "                         LINUX_ABSOFT"
 	@echo "                         LINUX_G95"
 	@echo "                         LINUX_G95_MPICH"
+	@echo "                         LINUX_GNU_OpenMPI"
 	@echo "                         LINUX_INTEL"
 	@echo "                         LINUX_INTEL_MPICH"
 	@echo "                         LINUX_PG"
@@ -189,6 +190,10 @@ LINUX_G95:
 
 LINUX_G95_MPICH:
 	ln -sf config/config.LINUX_G95.mk config.mk
+	gmake adt
+
+LINUX_GNU_OpenMPI:
+	ln -sf config/config.LINUX_GNU.mk config.mk
 	gmake adt
 
 LINUX_INTEL:
